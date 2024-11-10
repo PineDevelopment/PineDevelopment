@@ -15,7 +15,7 @@ Welcome to my GitHub! I’m a wannabe game developer and an extremely amateur sk
 
 ### 🔥 Fun Facts
 - 🦉 Cosmo is a friendly snow owl character from the Andromeda galaxy, created to be<br>the front face of my projects.
-- 🎮 I've always had a passion for game and graphics programming
+- 🎮 Ever since I was 9, I've had a passion for game and graphics programming.
 
 ### 📈 My Stats
 <div align="left">
