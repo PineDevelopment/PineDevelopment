@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Cosmo!
+- 👀 I’m interested in skating and game development
+- 🌱 I’m currently learning C/C++
