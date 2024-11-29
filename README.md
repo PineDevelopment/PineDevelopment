@@ -4,14 +4,14 @@ Welcome to my GitHub! I’m a wannabe game developer and an extremely amateur sk
 
 ### 🌌 A Little About Me
 - **✨ My hobbies include:** Skating, game development and stargazing
-- **🛠️ Currently working on:** Cosmic Engine: A game engine written entirely in Kotlin
+- **🛠️ Currently working on:** Cosmic Engine: A game engine written entirely in C/C++
 - **🌱 Currently learning:** Vulkan
 
 ### 🛠️ Tools, Languages & Frameworks I Use
 #### 🔨 Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,helix,idea,figma,git,github,cmake)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=neovim,figma,git,github)](https://skillicons.dev)
 #### 🌐 Languages and Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=c,cpp,java,kotlin,lua,python,rust,html,css,tailwindcss,javascript,typescript)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=c,cpp,java,kotlin,lua,python)](https://skillicons.dev)
 
 ### 🔥 Fun Facts
 - 🦉 Cosmo is a friendly snow owl character from the Andromeda galaxy, created to be<br>the front face of my projects.
