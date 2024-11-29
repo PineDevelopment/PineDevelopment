@@ -4,8 +4,8 @@ Welcome to my GitHub! I’m a wannabe game developer and an extremely amateur sk
 
 ### 🌌 A Little About Me
 - **✨ My hobbies include:** Skating, game development and stargazing
-- **🛠️ Currently working on:** Orbit Engine, a simple 2D game engine written in C++
-- **🌱 Currently learning:** CMake, C/C++, OpenGL, and Vulkan
+- **🛠️ Currently working on:** Cosmic Engine: A game engine written entirely in Kotlin
+- **🌱 Currently learning:** Vulkan
 
 ### 🛠️ Tools, Languages & Frameworks I Use
 #### 🔨 Tools
