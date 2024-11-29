@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m a wannabe game developer and an extremely amateur sk
 
 ### 🛠️ Tools, Languages & Frameworks I Use
 #### 🔨 Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,neovim,idea,figma,git,github,cmake)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,helix,idea,figma,git,github,cmake)](https://skillicons.dev)
 #### 🌐 Languages and Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=c,cpp,java,kotlin,lua,python,rust,html,css,tailwindcss,javascript,typescript)](https://skillicons.dev)
 
