@@ -9,9 +9,9 @@ Welcome to my GitHub! I’m a wannabe game developer and an extremely amateur sk
 
 ### 🛠️ Tools, Languages & Frameworks I Use
 #### 🔨 Tools
-[![Tools](https://skillicons.dev/icons?i=neovim,figma,obsidian,git,github)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=neovim,figma,powershell,git,github,gitlab)](https://skillicons.dev)
 #### 🌐 Languages and Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=go,gradle,java,kotlin,lua)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=go,gradle,java,kotlin,lua,ts,html,css)](https://skillicons.dev)
 
 ### 🔥 Fun Facts
 - 🦉 Cosmo is a friendly snow owl character from the Andromeda galaxy, created to be<br>the front face of my projects.
