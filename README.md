@@ -4,14 +4,16 @@ Welcome to my GitHub! I’m a wannabe game developer and an extremely amateur sk
 
 ### 🌌 A Little About Me
 - **✨ My hobbies include:** Skating, game development and stargazing
-- **🛠️ Currently working on:** CosmicLib: A Vulkan abstraction layer written in Odin.
-- **🌱 Currently learning:** Vulkan
+- **🛠️ Currently working on:** Celestial Engine - A private in-house game engine written purely in Odin.
+- **🌱 Currently learning:** OpenGL
 
 ### 🛠️ Tools, Languages & Frameworks I Use
 #### 🔨 Tools
-[![Tools](https://skillicons.dev/icons?i=neovim,figma,powershell,git,github,gitlab)](https://skillicons.dev)
-#### 🌐 Languages and Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=go,gradle,java,kotlin,lua,ts,html,css)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=neovim,figma,powershell)](https://skillicons.dev)
+#### 🌐 Languages & Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=gradle,java,kotlin)](https://skillicons.dev)<br>
+> **Note:**
+> I'm also a huge **Odin** user for game development and general programming.
 
 ### 🔥 Fun Facts
 - 🦉 Cosmo is a friendly snow owl character from the Andromeda galaxy, created to be<br>the front face of my projects.
