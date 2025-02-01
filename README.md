@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Cosmic 🦉
+# 👋 Hi there! I'm CosmicDev 🦉
 
 Welcome to my GitHub! I’m a wannabe game developer and an extremely amateur skater.
 
