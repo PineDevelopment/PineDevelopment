@@ -1,9 +1,9 @@
-# 👋 Hi there! I'm Cosmo 🦉
+# 👋 Hi there! I'm Cosmic 🦉
 
 Welcome to my GitHub! I’m a wannabe game developer and an extremely amateur skater.
 
 ### 🌌 A Little About Me
-- **✨ My hobbies include:** Skating, game development and stargazing
+- **✨ My hobbies include:** Skating, Game Development and Stargazing
 - **🛠️ Currently working on:** Celestial Engine - A private in-house game engine written purely in Odin.
 - **🌱 Currently learning:** OpenGL
 
@@ -16,7 +16,6 @@ Welcome to my GitHub! I’m a wannabe game developer and an extremely amateur sk
 > I'm also a huge **Odin** user for game development and general programming.
 
 ### 🔥 Fun Facts
-- 🦉 Cosmo is a friendly snow owl character from the Andromeda galaxy, created to be<br>the front face of my projects.
 - 🎮 I've had a passion for programming since the young age of 9.
 
 ### 📈 My Stats
