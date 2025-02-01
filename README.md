@@ -12,7 +12,7 @@ Welcome to my GitHub! I’m a wannabe game developer and an extremely amateur sk
 [![Tools](https://skillicons.dev/icons?i=neovim,figma,powershell)](https://skillicons.dev)
 #### 🌐 Languages & Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=gradle,java,kotlin)](https://skillicons.dev)<br>
-> **Note:**
+> [!NOTE]
 > I'm also a huge **Odin** user for game development and general programming.
 
 ### 🔥 Fun Facts
