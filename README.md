@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m an 18 year old Pascal enjoyer.
 
 ### 🌲 A Little About Me
 - **✨ My hobbies include:** Skating, Hiking and Game Development
-- **🛠️ Currently working on:** Pine Engine - A private in-house game engine written purely in Pascal.
+- **🛠️ Currently working on:** Pine Engine - A private in-house game engine written purely in Object Pascal.
 - **🌱 Currently learning:** Linear Algebra
 
 ### Stuff I Use
