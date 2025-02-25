@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Tristan 🌲
 
-Welcome to my GitHub! I’m an 18 year old Nim enjoyer.
+Welcome to my GitHub! I’m an 18 year old Nimlang and Emacs enjoyer.
 
 ### 🌲 A Little About Me
 - **✨ My hobbies include:** Skating, Hiking and Game Development
@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m an 18 year old Nim enjoyer.
 - **🌱 Currently learning:** Linear Algebra
 
 ### Stuff I Use
-[![Stuff](https://skillicons.dev/icons?i=emacs,powershell,windows,blender)](https://skillicons.dev)
+[![Stuff](https://skillicons.dev/icons?i=emacs,nim,powershell,windows,blender)](https://skillicons.dev)
 
 ### 🔥 Fun Facts
 - 🎮 I've had a passion for programming since the young age of 9.
