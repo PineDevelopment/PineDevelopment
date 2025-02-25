@@ -3,7 +3,7 @@
 Welcome to my GitHub! I’m an 18 year old Nimlang and Emacs enjoyer.
 
 ### 🌲 A Little About Me
-- **✨ My hobbies include:** Skating, Hiking and Game Development
+- **✨ My hobbies include:** Skating, Hiking, 3D Modelling and Game Development
 - **🛠️ Currently working on:** Pine Engine - A private in-house game engine written purely in Nim.
 - **🌱 Currently learning:** Linear Algebra
 
@@ -12,6 +12,7 @@ Welcome to my GitHub! I’m an 18 year old Nimlang and Emacs enjoyer.
 
 ### 🔥 Fun Facts
 - 🎮 I've had a passion for programming since the young age of 9.
+- 📎 I'm a sucker for relatively unpopular languages such as Pascal and Nim.
 
 ### 📈 My Stats
 <div align="left">
