@@ -1,14 +1,14 @@
 # 👋 Hi there! I'm Tristan 🌲
 
-Welcome to my GitHub! I’m an 18 year old Nimlang and Emacs enjoyer.
+Welcome to my GitHub! I’m an 18 year old Emacs enjoyer.
 
 ### 🌲 A Little About Me
-- **✨ My hobbies include:** Skating, Hiking, 3D Modelling and Game Development
-- **🛠️ Currently working on:** Pine Engine - A private in-house game engine written purely in Nim.
+- **✨ My hobbies include:** Skating, Hiking, 3D Modelling and Game Engine Development
+- **🛠️ Currently working on:** Pine Engine - A private in-house game engine written purely in Odin.
 - **🌱 Currently learning:** Linear Algebra
 
 ### Stuff I Use
-[![Stuff](https://skillicons.dev/icons?i=emacs,nim,powershell,windows,blender)](https://skillicons.dev)
+[![Stuff](https://skillicons.dev/icons?i=emacs,powershell,windows,blender)](https://skillicons.dev)
 
 ### 🔥 Fun Facts
 - 🎮 I've had a passion for programming since the young age of 9.
