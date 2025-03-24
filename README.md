@@ -3,8 +3,8 @@
 Welcome to my GitHub! I’m an 18 year old Emacs enjoyer.
 
 ### 🌲 A Little About Me
-- **✨ My hobbies include:** Skating, Hiking, 3D Modelling and Game Engine Development
-- **🛠️ Currently working on:** Pine Engine - A private in-house game engine written purely in Odin.
+- **✨ My hobbies include:** Skating, Hiking, Gaming and Software Development
+- **🛠️ Currently working on:** Pine Engine - A private in-house game engine written purely in Odin using DirectX11 and SDL3.
 - **🌱 Currently learning:** Linear Algebra
 
 ### Stuff I Use
@@ -13,6 +13,7 @@ Welcome to my GitHub! I’m an 18 year old Emacs enjoyer.
 ### 🔥 Fun Facts
 - 🎮 I've had a passion for programming since the young age of 9.
 - 📎 I'm a sucker for relatively unpopular languages such as Pascal and Nim.
+- 🕹️ My most favourite game of all time is Left 4 Dead 2.
 
 ### 📈 My Stats
 <div align="left">
