@@ -3,12 +3,12 @@
 Welcome to my GitHub! I’m an 18 year old Emacs enjoyer.
 
 ### 🌲 A Little About Me
-- **✨ My hobbies include:** Skating, Hiking, Gaming and Software Development
-- **🛠️ Currently working on:** Pine Engine - A game engine written purely in Odin using DirectX11 and SDL3.
-- **🌱 Currently learning:** Linear Algebra
+- **✨ My hobbies include:** Gaming and Software Development
+- **🛠️ Currently working on:** Pine Engine - A game engine written purely in Object Pascal using DirectX11 and GLFW.
+- **🌱 Currently learning:** Nothing!
 
 ### Stuff I Use
-[![Stuff](https://skillicons.dev/icons?i=emacs,powershell,windows,blender)](https://skillicons.dev)
+[![Stuff](https://skillicons.dev/icons?i=emacs,linux,powershell,windows,blender)](https://skillicons.dev)
 
 ### 🔥 Fun Facts
 - 🎮 I've had a passion for programming since the young age of 9.
